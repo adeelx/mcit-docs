@@ -1,4 +1,4 @@
-mcit-docs
+MCIT Docs
 =========
 
-MCIT Course Material
+Course Material for the MCIT Classes.
