@@ -3,18 +3,18 @@ MCIT Docs
 
 Course Material for the MCIT Classes.
 
-Links:
+h2. Links:
 =========
 
 
-Short Link:
+h3. Short Link:
 =========
 http://bit.ly/mcit-gh
 
-GitHub Pages:
+h3. GitHub Pages:
 =========
 http://adeelx.github.io/mcit-docs/
 
-Repository Link:
+h3. Repository Link:
 =========
 https://github.com/adeelx/mcit-docs
