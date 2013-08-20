@@ -4,8 +4,7 @@ MCIT Docs
 Course Material for the MCIT Classes.
 
 ## Links:
-
-------
+___
 
 ### Short Link:
 [http://bit.ly/mcit-gh]()
